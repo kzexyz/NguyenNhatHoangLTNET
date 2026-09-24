@@ -1,78 +1,78 @@
-\# Lập trình .NET
+# Lập trình .NET
 
 
 
-\*\*Họ và tên:\*\* Nguyễn Nhật Hoàng  
+**Họ và tên:** Nguyễn Nhật Hoàng  
 
-\*\*Lớp:\*\* D19CNPM5  
+**Lớp:** D19CNPM5  
 
-\*\*Mã sinh viên:\*\* 24810310478  
-
-
-
-\# BÀI TẬP NGÀY 24/09/2026
+**Mã sinh viên:** 24810310478  
 
 
 
-\## BÀI 4.1
+# BÀI TẬP NGÀY 24/09/2026
 
 
 
-\### Form ĐĂNG NHẬP
+## BÀI 4.1
 
 
 
-!\[Bài 4.1](BAI-TAP-24-09-2026/images/Bai4\_1-1.png)
+### Form ĐĂNG NHẬP
 
 
 
-!\[Bài 4.1](BAI-TAP-24-09-2026/images/Bai4\_1-2.png)
+![Bài 4.1](BAI-TAP-24-09-2026/images/Bai4\_1-1.png)
 
 
 
-\---
+![Bài 4.1](BAI-TAP-24-09-2026/images/Bai4\_1-2.png)
 
 
 
-\## BÀI 4.2
+---
 
 
 
-\### Form ĐĂNG KÝ
+## BÀI 4.2
 
 
 
-!\[Bài 4.2](BAI-TAP-24-09-2026/images/Bai4\_2.png)
+### Form ĐĂNG KÝ
 
 
 
-\---
+![Bài 4.2](BAI-TAP-24-09-2026/images/Bai4\_2.png)
 
 
 
-\## BÀI 4.3
+---
 
 
 
-\### Form CALCULATOR
+## BÀI 4.3
 
 
 
-!\[Bài 4.3](BAI-TAP-24-09-2026/images/Bai4\_3.png)
+### Form CALCULATOR
 
 
 
-\---
+![Bài 4.3](BAI-TAP-24-09-2026/images/Bai4\_3.png)
 
 
 
-\## BÀI 4.4
+---
 
 
 
-\### Form ĐẶT HÀNG FASTFOOD
+## BÀI 4.4
 
 
 
-!\[Bài 4.4](BAI-TAP-24-09-2026/images/Bai4\_4.png)
+### Form ĐẶT HÀNG FASTFOOD
+
+
+
+![Bài 4.4](BAI-TAP-24-09-2026/images/Bai4\_4.png)
 
