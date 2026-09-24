@@ -76,3 +76,12 @@
 
 ![Bài 4.4](BAI-TAP-24-09-2026/images/Bai4\_4.png)
 
+
+
+---
+
+
+
+## CODE BÀI
+
+[Xem toàn bộ code](https://github.com/kzexyz/NguyenNhatHoangLTNET/tree/main/BAI-TAP-24-09-2026)
