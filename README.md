@@ -22,11 +22,11 @@
 
 
 
-![Bài 4.1](BAI-TAP-24-09-2026/images/Bai4\_1-1.png)
+![Bài 4.1](BAI-TAP-24-09-2026/images/Bai4.1-1.png)
 
 
 
-![Bài 4.1](BAI-TAP-24-09-2026/images/Bai4\_1-2.png)
+![Bài 4.1](BAI-TAP-24-09-2026/images/Bai4.1-2.png)
 
 
 
@@ -42,7 +42,7 @@
 
 
 
-![Bài 4.2](BAI-TAP-24-09-2026/images/Bai4\_2.png)
+![Bài 4.2](BAI-TAP-24-09-2026/images/Bai4.2.png)
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-![Bài 4.3](BAI-TAP-24-09-2026/images/Bai4\_3.png)
+![Bài 4.3](BAI-TAP-24-09-2026/images/Bai4.3.png)
 
 
 
@@ -74,7 +74,7 @@
 
 
 
-![Bài 4.4](BAI-TAP-24-09-2026/images/Bai4\_4.png)
+![Bài 4.4](BAI-TAP-24-09-2026/images/Bai4.4.png)
 
 
 
