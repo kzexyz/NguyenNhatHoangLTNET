@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\Bai4-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{900B6F9F-F065-4753-AC45-9C54D7AD8EF7}|Bai4-5.csproj|d:\\.net\\bai4-5\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{900B6F9F-F065-4753-AC45-9C54D7AD8EF7}|Bai4-5.csproj|solutionrelative:formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900B6F9F-F065-4753-AC45-9C54D7AD8EF7}|Bai4-5.csproj|d:\\.net\\bai4-5\\formmainmdi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900B6F9F-F065-4753-AC45-9C54D7AD8EF7}|Bai4-5.csproj|solutionrelative:formmainmdi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900B6F9F-F065-4753-AC45-9C54D7AD8EF7}|Bai4-5.csproj|d:\\.net\\bai4-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900B6F9F-F065-4753-AC45-9C54D7AD8EF7}|Bai4-5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900B6F9F-F065-4753-AC45-9C54D7AD8EF7}|Bai4-5.csproj|d:\\.net\\bai4-5\\formmainmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900B6F9F-F065-4753-AC45-9C54D7AD8EF7}|Bai4-5.csproj|solutionrelative:formmainmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900B6F9F-F065-4753-AC45-9C54D7AD8EF7}|Bai4-5.csproj|d:\\.net\\bai4-5\\formregister.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900B6F9F-F065-4753-AC45-9C54D7AD8EF7}|Bai4-5.csproj|solutionrelative:formregister.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900B6F9F-F065-4753-AC45-9C54D7AD8EF7}|Bai4-5.csproj|d:\\.net\\bai4-5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{900B6F9F-F065-4753-AC45-9C54D7AD8EF7}|Bai4-5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormRegister.cs [Design]",
+              "DocumentMoniker": "D:\\.net\\Bai4-5\\FormRegister.cs",
+              "RelativeDocumentMoniker": "FormRegister.cs",
+              "ToolTip": "D:\\.net\\Bai4-5\\FormRegister.cs [Design]*",
+              "RelativeToolTip": "FormRegister.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T08:09:05.071Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMainMdi.Designer.cs",
+              "DocumentMoniker": "D:\\.net\\Bai4-5\\FormMainMdi.Designer.cs",
+              "RelativeDocumentMoniker": "FormMainMdi.Designer.cs",
+              "ToolTip": "D:\\.net\\Bai4-5\\FormMainMdi.Designer.cs",
+              "RelativeToolTip": "FormMainMdi.Designer.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAUwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T08:06:06.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormRegister.Designer.cs",
+              "DocumentMoniker": "D:\\.net\\Bai4-5\\FormRegister.Designer.cs",
+              "RelativeDocumentMoniker": "FormRegister.Designer.cs",
+              "ToolTip": "D:\\.net\\Bai4-5\\FormRegister.Designer.cs*",
+              "RelativeToolTip": "FormRegister.Designer.cs*",
+              "ViewState": "AgIAABsBAAAAAAAAAAAQwC8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T08:03:56.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMainMdi.cs",
+              "DocumentMoniker": "D:\\.net\\Bai4-5\\FormMainMdi.cs",
+              "RelativeDocumentMoniker": "FormMainMdi.cs",
+              "ToolTip": "D:\\.net\\Bai4-5\\FormMainMdi.cs",
+              "RelativeToolTip": "FormMainMdi.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T07:59:56.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\Bai4-5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.net\\Bai4-5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T07:52:07.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\.net\\Bai4-5\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\.net\\Bai4-5\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T07:51:39.965Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
