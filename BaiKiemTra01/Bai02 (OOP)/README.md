@@ -43,7 +43,3 @@ Chương trình xây dựng hệ thống quản lý phương tiện giao thông 
 Code bài được lưu trong thư mục:
 
 `Code/HeThongQuanLyPTGT`
-
-File Solution:
-
-`Code/HeThongQuanLyPTGT.slnx`
