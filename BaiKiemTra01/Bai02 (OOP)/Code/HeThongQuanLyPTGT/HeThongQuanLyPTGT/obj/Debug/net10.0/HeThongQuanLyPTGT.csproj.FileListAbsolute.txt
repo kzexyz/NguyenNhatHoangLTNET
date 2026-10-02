@@ -1,0 +1,15 @@
+D:\.net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\bin\Debug\net10.0\HeThongQuanLyPTGT.exe
+D:\.net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\bin\Debug\net10.0\HeThongQuanLyPTGT.deps.json
+D:\.net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\bin\Debug\net10.0\HeThongQuanLyPTGT.runtimeconfig.json
+D:\.net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\bin\Debug\net10.0\HeThongQuanLyPTGT.dll
+D:\.net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\bin\Debug\net10.0\HeThongQuanLyPTGT.pdb
+D:\.net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\HeThongQuanLyPTGT.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\HeThongQuanLyPTGT.AssemblyInfoInputs.cache
+D:\.net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\HeThongQuanLyPTGT.AssemblyInfo.cs
+D:\.net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\HeThongQuanLyPTGT.csproj.CoreCompileInputs.cache
+D:\.net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\HeThongQuanLyPTGT.dll
+D:\.net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\refint\HeThongQuanLyPTGT.dll
+D:\.net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\HeThongQuanLyPTGT.pdb
+D:\.net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\HeThongQuanLyPTGT.genruntimeconfig.cache
+D:\.net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\ref\HeThongQuanLyPTGT.dll
+D:\.net\HeThongQuanLyPTGT\HeThongQuanLyPTGT\obj\Debug\net10.0\HeThongQ.464233DA.Up2Date
