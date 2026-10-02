@@ -22,7 +22,7 @@
 
 
 
-![Bài 4.1](BAI-TAP-24-09-2026/images/Bai4.1-1.png)
+![Bài 4.1](images/Bai4.1-1.png)
 
 
 
