@@ -1,4 +1,4 @@
-# BÀI 3 - WINDOWS FORMS GUI
+# BÀI 3 - WINDOWS FORMS
 
 ## TechMart Product Manager
 
@@ -43,7 +43,3 @@ Quản lý danh mục thiết bị công nghệ bằng Windows Forms.
 Code bài được lưu trong thư mục:
 
 `Code/TechMartProductManager`
-
-File Solution:
-
-`Code/TechMartProductManager.slnx`
