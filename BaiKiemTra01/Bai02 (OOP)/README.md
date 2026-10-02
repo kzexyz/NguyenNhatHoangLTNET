@@ -80,7 +80,7 @@ Nhập từ khóa `Honda`, chương trình tìm thấy Xe máy có mã `XM01`.
 
 ## SOURCE CODE
 
-Mã nguồn chương trình được lưu trong thư mục:
+Code được lưu trong thư mục:
 
 `Code/HeThongQuanLyPTGT`
 
